@@ -1,20 +1,35 @@
 # Introduction
 
-Frank Lloyd Wright once said “You can’t make an architect. You can however open the doors and windows toward the light as you see it.” In this book, I hope to shed some light on how to improve the structure of your web applications, opening doors to what will hopefully be more maintainable, readable applications in your future.
+One of the best investments you can make in your MaaxFrame success is to have a clear plan. Just as you wouldn’t build a house without a blueprint, you don’t want to start using MaaxFrame without a plan. A plan will help you to communicate with everyone, to do things in the right order, identify key resources, and keep a clear end date in mind.
 
-The goal of all architecture is to build something well; in our case, to craft code that is enduring and delights both ourselves and the developers who will maintain our code long after we are gone. We all want our architecture to be simple, yet beautiful.
+As you plan and prepare to get MaaxFrame up and running, complete the following steps:
 
-Modern JavaScript frameworks and libraries can bring structure and organization to your projects, establishing a maintainable foundation right from the start. They build on the trials and tribulations of developers who have had to work around callback chaos similar to that which you are facing now or may in the near future.
+* Build your team
+* Define your company’s vision
+* Define and prioritize your goals
+* Develop your rollout plan
+* Define key aspects of your process and diagram the process flow
+* Map your process to MaaxFrame functionality
+* Decide which reports you need
+* Train your administrator
+* Communicate with your end users
 
-When developing applications using just jQuery, the piece missing is a way to structure and organize your code. It's very easy to create a JavaScript app that ends up a tangled mess of jQuery selectors and callbacks, all desperately trying to keep data in sync between the HTML for your UI, the logic in your JavaScript, and calls to your API for data.
+### Build Your Team
 
-Without something to help tame the mess, you're likely to string together a set of independent plugins and libraries to make up the functionality or build everything yourself from scratch and have to maintain it yourself. Backbone solves this problem for you, providing a way to cleanly organize code, separating responsibilities into recognizable pieces that are easy to maintain.
+To a small business with limited resources, the term “project team” may sound intimidating, but it doesn’t take a huge team to implement MaaxFrame. You just need to cover the following key roles (and the same person can cover more than one role):
 
-In "Developing Backbone.js Applications," I and a number of other experienced authors will show you how to improve your web application structure using the popular JavaScript library, Backbone.js
+* An executive sponsor
+* A project owner to get the application up and running
+* An administrator to manage MaaxFrame day to day
+* A power user who really knows your company’s business processes
 
-### What Is MVC?
+The **executive sponsor** lends his or her influence to the project by becoming its champion. Having that person’s full support and participation—from the planning stage until the go-live date and beyond—is absolutely critical.
 
-A number of modern JavaScript frameworks provide developers an easy path to organizing their code using variations of a pattern known as MVC (Model-View-Controller). MVC separates the concerns in an application into three parts:
+The **project owner**, who leads the implementation project, must understand the organization’s business processes to map them to MaaxFrame.
+
+The person is designated as the **system administrator** manages MaaxFrame day to day and makes new functionality available. It’s also a good idea to have the administrator involved in the implementation. A technical background is not necessary, but may be helpful.
+
+And to make sure that Salesforce CRM meets the needs of your end users, it is essential to involve key **power users** in the planning process.
 
 * Models represent the domain-specific knowledge and data in an application. Think of this as being a ‘type’ of data you can model — like a User, Photo, or Todo note. Models can notify observers when their state changes.
 * Views typically constitute the user interface in an application (e.g., markup and templates), but don’t have to be. They observe Models, but don’t directly communicate with them.
