@@ -1,4 +1,4 @@
-# Fundamentals
+# Set Up MaaxFrame
 
 Design patterns are proven solutions to common development problems that can help us improve the organization and structure of our applications. By using patterns, we benefit from the collective experience of skilled developers who have repeatedly solved similar problems.
 
