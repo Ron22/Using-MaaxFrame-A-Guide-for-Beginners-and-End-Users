@@ -130,9 +130,28 @@ When defining your process, it helps to follow these steps:
 * ***Accounts*** - An account is an organization, individual, or company that you want to track in MaaxFrame. An account can include customers, competitors, partners, or any other entities that make sense for your business. An account record contains—or connects to—all information about your interactions with the company, such as in-progress and completed opportunities, your points of contact, and records of past interactions.
 
 * ***Contacts*** - The contact object stores information about people who work at the companies represented by the account object. A contact record contains all relevant information about the person, such as phone numbers, titles, and role in a deal, and much more. With contacts, you can capture all the personal information you need to develop the relationships that are so important in sales.
-
 When a sales rep converts a lead in MaaxFrame, the information in the lead is automatically transferred to the contact. As your engagement with the company widens and your reps meet more people, they can keep creating additional contacts associated with the corresponding account.
 
+* ***Opportunities*** – The opportunity object contains the information for every deal you’re tracking, such as deal size and expected close date. The opportunity object is at the core of your sales process. By adding an opportunity, you build a “pipeline” you can use for forecasting.
+
+* ***Activities*** – Activities consist of the tasks, events, calls, and emails that make it possible to track every customer interaction.
+
+---
+
+### Outline the Key Aspects of Your Sales Process
+
+For most businesses, outlining their basic sales process includes gathering the following information:
+
+* Generating leads – Where do leads come from? How do they get into MaaxFrame? What happens next? What information do you want to measure about leads?
+* Optimizing lead flow – How do you manage open leads? How do you check for duplicates? How do you work through leads? How do you measure conversion and top performers?
+* Closing deals – How do you manage the sales funnel? How can you measure top deals, closed business by month, and month-to-date trending?
+
+### Create Your Process Overview
+
+The goal of this step is to come up with a visual overview of your processes. Here’s an example of a sales process:
+
+
+[! Sales Process](/img/assets/image.jpg)
 
 
 
