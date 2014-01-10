@@ -2,7 +2,9 @@
 
 ![](img/logo.jpg)
 
-Not so long ago, "data-rich web application" was an oxymoron. Today, these applications are everywhere and you need to know how to build them.
+Thank you for using MaaxFrame, the world’s first advertisement driven and subscription based CRM service and
+software solutions provider. This is our User’s Manual, which will assist you in using the hosted version of our
+software.
 
 Traditionally, web applications left the heavy-lifting of data to servers that pushed HTML to the browser in complete page loads. The use of client-side JavaScript was limited to improving the user experience. Now this relationship has been inverted - client applications pull raw data from the server and render it into the browser when and where it is needed.
 
