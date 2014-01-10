@@ -1,4 +1,4 @@
-* [welcome](chapters/00-welcome.md)
+* [Welcome](chapters/00-welcome.md)
 * [Introduction](chapters/01-introduction.md)
 * [Fundamentals](chapters/02-fundamentals.md)
 * [The Internals](chapters/03-internals.md)
