@@ -153,6 +153,27 @@ The goal of this step is to come up with a visual overview of your processes. He
 
 [! Sales Process](/img/assets/image.jpg)
 
+Discuss the sample process with your project team and modify it to fit your organization. If you don’t have a defined sales process, a CRM implementation is a good time to set one up.
+
+To set up your own sales process:
+* Start at the point where a lead is qualified as an opportunity.
+* On a whiteboard, draw each step as you ideally want the information to flow.
+
+### Map Your Process to MaaxFrame Functionality
+
+The next step is to map your ideal process to MaaxFrame and establish the names you give to your data elements and the fields in MaaxFrame. For example, you may call a customer “Company,” while the corresponding field in MaaxFrame is “Account.”
+
+To start the mapping process, review the fields associated with the Opportunity process—which includes the fields for Leads, Accounts, Contacts, and Opportunities—and answer the following questions:
+* Do you need all the fields? Review the fields and decide which can be removed.
+* Do you need to rename standard fields so they make more sense; for example, change “Account” to “Company”?
+* Do you need custom fields that are unique to your business?
+
+### Decide Which Reports You Need
+
+Decide which reports you need to generate based on the goals you defined earlier. MaaxFrame provides dozens of standard reports. Here are a few of the most commonly used reports:
+
+* CRM Reports
+
 
 
 
