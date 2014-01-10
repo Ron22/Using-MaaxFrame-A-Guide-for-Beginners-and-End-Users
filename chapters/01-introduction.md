@@ -76,8 +76,6 @@ In addition to a clear destination, it also helps to have a plan that breaks dow
 * Define the goals that support this vision
 * Prioritize and document your requirements
 
-* * *
-
 #### Define Your Goals
 
 Determine which concrete goals support your vision. Keep in mind that different groups within your organization are likely to have different goals. For example:
@@ -88,13 +86,56 @@ Determine which concrete goals support your vision. Keep in mind that different 
 
 MaaxFrame provides various reports to help measure whether you’ve reached your goals.
 
-* * *
-
 #### Prioritize Your Goals
 
 Most people, and most organizations, want to take on more than they can handle at any one time. Clearly defining your goals and then prioritizing them will make it easier to decide what to put off, should that become necessary. Having some early “wins” is essential. When people experience the value of MaaxFrame first hand, they’re more likely to support adding additional features.
 
+---
+
 ### Develop Your Rollout Plan
 
 Customers typically take the approach of walking before they run. They focus first on a subset of the functionality available in MaaxFrame—allowing users to get comfortable with the application and adopt the most critical features—and then add more functionality during later phases.
+
+It’s important to build your plan around the key areas you want to introduce first, then build your roadmap on the additional areas you will expand later.
+
+Here’s an example of how one customer decided to approach their deployment, broken into three phases:
+
+***Phase 1***: Import accounts and existing pipeline for general account and opportunity management
+Introduce a Chatter group for MaaxFrame training and project communication
+
+***Phase 2***: Upload existing leads and begin tracking leads from various sources
+Introduce campaign management to track marketing initiatives
+
+***Phase 3***: Begin tracking customer issues by onboarding the customer service team and using cases
+Launch forecasting to the sales team
+
+---
+
+### Define Key Aspects of Your Process and Diagram the Process Flow
+
+When defining your process, it helps to follow these steps:
+
+* Make sure you understand key MaaxFrame terminology
+* Identify key characteristics of your business processes
+* Define and develop a visual overview of your own process
+* Clarify what happens at each step—what inputs are needed, who does what, and how to measure the results
+* Map your business processes to MaaxFrame
+
+---
+
+### Understand Key Salesforce CRM Terminology
+
+* ***Leads*** – A lead is any person that may be interested in your products or services; for example, someone you met at a conference or who filled out a form on your website is a lead. If a rep qualifies a lead and decides to pursue it, the lead is “converted,” which automatically transforms it into three objects: an account, a contact, and an opportunity.
+
+* ***Accounts*** - An account is an organization, individual, or company that you want to track in MaaxFrame. An account can include customers, competitors, partners, or any other entities that make sense for your business. An account record contains—or connects to—all information about your interactions with the company, such as in-progress and completed opportunities, your points of contact, and records of past interactions.
+
+* ***Contacts*** - The contact object stores information about people who work at the companies represented by the account object. A contact record contains all relevant information about the person, such as phone numbers, titles, and role in a deal, and much more. With contacts, you can capture all the personal information you need to develop the relationships that are so important in sales.
+
+When a sales rep converts a lead in MaaxFrame, the information in the lead is automatically transferred to the contact. As your engagement with the company widens and your reps meet more people, they can keep creating additional contacts associated with the corresponding account.
+
+
+
+
+
+
 
