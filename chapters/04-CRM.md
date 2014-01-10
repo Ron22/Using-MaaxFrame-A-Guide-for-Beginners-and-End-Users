@@ -1,4 +1,4 @@
-# CRM Leads
+# CRM 
 
 Backbone is flexible, simple, and powerful. However, you may find that the complexity of the application you are working on requires more than what it provides out of the box. There are certain concerns which it just doesn't address directly as one of its goals is to be minimalist.
 
