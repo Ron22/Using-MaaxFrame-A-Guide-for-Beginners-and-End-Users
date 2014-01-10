@@ -168,14 +168,20 @@ To start the mapping process, review the fields associated with the Opportunity 
 * Do you need to rename standard fields so they make more sense; for example, change “Account” to “Company”?
 * Do you need custom fields that are unique to your business?
 
-### Decide Which Reports You Need
+### Decide Which Drill Down Reports You Need
 
-Decide which reports you need to generate based on the goals you defined earlier. MaaxFrame provides dozens of standard reports. Here are a few of the most commonly used reports:
+Decide which reports you need to generate based on the goals you defined earlier. MaaxFrame provides dozens of standard reports with drill down feature. Here are a few of the most commonly used reports:
 
-* CRM Reports
+* ***Account Revenue by Industry***: Shows revenue accounts categorized by industry
+* ***Account Owner***: Who owns which account
+* ***Lead by Status and Industry***: Created leads in last six months categorized by lead status
+* ***Leads with last activity > 30 days***: Which leads need attention
+* ***Sales Forecas***: Estimate of your sales for the forecast period
+* ***Opportunity by Source***: How effective are all opportunity sources
+* ***Campaigns***: Active
+* ***Contact Distribution***: Global Distribution of contacts
+* ***Sales trend for current year***: Total and average revenue per year
 
-
-
-
+and many more....
 
 
