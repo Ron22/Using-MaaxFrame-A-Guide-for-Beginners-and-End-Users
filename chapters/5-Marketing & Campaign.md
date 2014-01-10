@@ -1,7 +1,6 @@
-
 # Paginating Backbone.js Requests & Collections
 
-## Introduction
+## Marketing & Campaign
 
 Pagination is a ubiquitous problem we often find ourselves needing to solve on the web - perhaps most predominantly when working with service APIs and JavaScript-heavy clients which consume them. It's also a problem that is often under-refined as most of us consider pagination relatively easy to get right. This isn't however always the case as pagination tends to get more tricky than it initially seems. 
 
