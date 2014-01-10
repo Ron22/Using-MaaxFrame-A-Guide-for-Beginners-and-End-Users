@@ -1,4 +1,4 @@
-# Backbone & jQuery Mobile
+# Settings
 
 ### Mobile app development with jQuery Mobile
 
