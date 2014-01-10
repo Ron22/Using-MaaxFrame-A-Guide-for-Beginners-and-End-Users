@@ -188,6 +188,12 @@ Decide which reports you need to generate based on the goals you defined earlier
 * ***Contact Distribution***: Global Distribution of contacts
 * ***Sales trend for current year***: Total and average revenue per year
 
-and many more....
+For a list of additional reports, navigate to the Reports tab in MaaxFrame; on the left side, you will see a list of report folders organized by function (CRM Reports, Adhoc Reports, etc.). Click into the folder to view these standard reports. You can modify these reports or create your own from scratch. Thinking about what information you want to capture is a critical step before you begin customizing the application. Remember: The system is only as good as the information you can pull into a report.
+
+### Train Your Administrator
+
+Investing in your administrator is the best way to ensure success. MaaxFrame offers both virtual self-paced training with full support. The self-paced support are available with your licenses around the clock at no additional charge included in [Dedicated Edition](http://www.maaxframe.com/pricingbox.html). During the implementation, you may want to consider getting help from our certified managers. They can assist with all aspects of the implementation, and many customers find it useful to leverage managers’ expertise and technical skills.
+
+
 
 
