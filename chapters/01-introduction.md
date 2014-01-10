@@ -146,6 +146,8 @@ For most businesses, outlining their basic sales process includes gathering the 
 * Optimizing lead flow – How do you manage open leads? How do you check for duplicates? How do you work through leads? How do you measure conversion and top performers?
 * Closing deals – How do you manage the sales funnel? How can you measure top deals, closed business by month, and month-to-date trending?
 
+---
+
 ### Create Your Process Overview
 
 The goal of this step is to come up with a visual overview of your processes. Here’s an example of a sales process:
@@ -159,6 +161,8 @@ To set up your own sales process:
 * Start at the point where a lead is qualified as an opportunity.
 * On a whiteboard, draw each step as you ideally want the information to flow.
 
+---
+
 ### Map Your Process to MaaxFrame Functionality
 
 The next step is to map your ideal process to MaaxFrame and establish the names you give to your data elements and the fields in MaaxFrame. For example, you may call a customer “Company,” while the corresponding field in MaaxFrame is “Account.”
@@ -167,6 +171,8 @@ To start the mapping process, review the fields associated with the Opportunity 
 * Do you need all the fields? Review the fields and decide which can be removed.
 * Do you need to rename standard fields so they make more sense; for example, change “Account” to “Company”?
 * Do you need custom fields that are unique to your business?
+
+---
 
 ### Decide Which Drill Down Reports You Need
 
