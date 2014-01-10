@@ -190,9 +190,34 @@ Decide which reports you need to generate based on the goals you defined earlier
 
 For a list of additional reports, navigate to the Reports tab in MaaxFrame; on the left side, you will see a list of report folders organized by function (CRM Reports, Adhoc Reports, etc.). Click into the folder to view these standard reports. You can modify these reports or create your own from scratch. Thinking about what information you want to capture is a critical step before you begin customizing the application. Remember: The system is only as good as the information you can pull into a report.
 
+---
+
 ### Train Your Administrator
 
 Investing in your administrator is the best way to ensure success. MaaxFrame offers both virtual self-paced training with full support. The self-paced support are available with your licenses around the clock at no additional charge included in [Dedicated Edition](http://www.maaxframe.com/pricingbox.html). During the implementation, you may want to consider getting help from our certified managers. They can assist with all aspects of the implementation, and many customers find it useful to leverage managers’ expertise and technical skills.
+
+---
+
+### Communicate with Your End Users
+
+With clear goals set, you can now engage your users. User adoption is critical for MaaxFrame success.
+
+You want the introduction of MaaxFrame to come as a surprise to users. As it, start building enthusiasm and keep your users updated as your go-live date approaches. For the highest impact, these communications should come from the executive sponsor. Here are some approaches that have worked for other customers:
+
+* Build anticipation by enlisting the help of your marketing staff in treating the MaaxFrame implementation like a product launch.
+* Focus on two or three aspects of MaaxFrame that will make your users’ lives easier.
+* Reach out to users who seem particularly enthusiastic and give them a role in helping other users once you’re “live.”
+* Sponsor contests and offer incentives to help build excitement.
+
+One of the best ways to get people on board is to get them involved. Give them a voice and be sure to make changes based on their feedback. Then, communicate the difference their input made on the project’s launch.
+
+>Recommendation: Create a group to share information about your MaaxFrame deployment. You can consolidate all materials, training resources, and conversation into one central location. You can also share key milestones and achievements related to your MaaxFrame deployment. Make sure that your executive sponsor is engaged and posting updates and feedback to your users.
+
+---
+
+### Summary and Checklist: Prepare
+
+Careful preparation and planning will help make the remaining steps in implementing MaaxFrame go smoothly.
 
 
 
