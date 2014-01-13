@@ -8,12 +8,16 @@ This section tells you how to take the next steps by outlining the key areas to 
 * Adding users
 * Importing data
 
+---
+
 ## Set Up Your Company Profile
 
 The company profile information determines basic settings related to time zones, language, and how the fiscal year is defined. You can leave the default settings as is; however, it’s important to know where to find and change this information.
 
 * Company profile – These settings use your local time for setting the time zone, default language, and the default currency.
 * Fiscal years – The fiscal year definitions are used in reporting, opportunities, and forecasting. The default fiscal year setting is a 12-month calendar year, with the first day of the fiscal year starting on any first day of the month. However, you can choose custom fiscal year periods.
+
+---
 
 
 ## Establish User Access and Permissions
@@ -23,7 +27,7 @@ There are some key components that determine users’ access to data as well as 
 ### Data Access
 
 When setting up MaaxFrame for the first time, you need to make some decisions about who will have access to what data. In MaaxFrame, there are four ways to control data access:
-
+  
 * ***Organization-wide defaults*** – Configure the baseline access users will have to your data.
 * ***Role hierarchy*** – Determine the level of visibility users have to data.
 * ***Sharing rules*** – Extend access to data if you’ve restricted access through your organization-wide defaults.
@@ -77,9 +81,11 @@ A profile is a collection of settings and permissions that defines how users wit
 
 * System Administrator – Can configure and customize the application
 * Standard User – Can run reports and create and edit records
-* Read Only – Can run and export reports and view—but not edit—records
+
 
 When you add users as you prepare to go live, you will assign one of these profiles to each user.
+
+---
 
 ## Customization
 
@@ -108,3 +114,132 @@ Here are the top five things to think about before starting to customize:
 * ***Run reports*** – Run reports about one month after you go live to find out which fields are not being used. Use the opportunity to survey users about what could be improved.
 
 * ***Make changes on the fly*** – In response to feedback, make changes immediately to gain instant credibility. Make sure you communicate any changes, because users don’t like it when anything that affects their work happens “magically.”
+
+### Know What Can You Customize
+
+You can customize many different MaaxFrame components; however, most customers customize three things:
+
+* Fields
+* Page layouts
+* Reports
+
+#### Customize Fields
+
+Because fields hold the data you want to capture and report on, it’s important to make sure you have fields for important data elements and that those fields have names that make sense to your users. Here are common approaches to customizing fields:
+
+* Modify the standard MaaxFrame fields – MaaxFrame provides commonly used fields for standard records such as accounts, contacts, opportunities, and leads.
+  * For example, the Lead object has a standard field called “Lead Status,” which has existing values of “Attempted to Contact,” “Cold,” “Hot,” "Pre-Qualified," "Warm," and few more. You can easily add a new value called “Dukewarm.”
+* Create fields from scratch – If a standard MaaxFrame field that you need doesn’t already exist, you can easily create a custom field. For example, you can add a new picklist to capture “Lead Type” and track the main competitor in the sales cycle.
+* Do both! Combine standard fields and custom fields to create the best experience for your users.
+
+#### Customize Page Layouts
+
+Page layouts define how fields—standard and custom—look to your users and which fields are required; that is, they can’t be saved unless the user enters a value. You’ll want to customize your layouts so that they’re attractive and easy to use. It may be tempting to create many required fields to force users to enter data; however, keep in mind that user satisfaction tends to suffer when there are too many required fields.
+
+Here’s what you can do to customize page layouts:
+
+* Remove unnecessary fields
+* Change field locations
+* Create new sections
+* Determine if filling in a field is required before saving
+
+#### Customize Reports
+
+* Being able to easily generate reports containing the information that’s most important to you is one of the great things about MaaxFrame. With a large number of standard reports available out of the box, you can be reporting in no time.
+
+* In the planning process, you determined what information you would need to pull from MaaxFrame based on your current business needs. Then you customized the application based on those needs.
+
+* After you add the custom fields to MaaxFrame, it’s time to re-evaluate if you have all the information you need to pull the proper reports.
+
+Now you’re ready to start creating your reports. Here’s what you can do with reports:
+
+* Customize the standard reports to better fit your business needs.
+* Create custom reports from scratch and determine which fields they contain, how they’re laid out, sorting options, date ranges, and charting options.
+* Leverage pre-built dashboards that contain all the underlying reports tied to the dashboard.
+
+### To Lead or Not to Lead?
+
+An important step in setting up MaaxFrame is to decide whether or not to use lead functionality. Leads are a critical part of the sales cycle of most businesses, and MaaxFrame includes a lot of very useful lead functionality, such as analyzing how leads convert or finding your best channels. Some companies decide not to use lead functionality because it requires an additional step to turn a prospect into an opportunity. What's right for you depends on your business processes.
+
+#### Take Advantage of Lead Functionality
+
+Leads are unique among MaaxFrame records because they come with special functionality, including:
+
+* ***Lead Conversion*** – A benefit of using leads in MaaxFrame is that it creates a separate area in which you can keep information in any kind of format to track anyone who ever expressed interest. This approach keeps a clean distinction between leads and contacts, so you don't have to worry about “dirty” data or duplicates. If you don't use leads, you can't run an analysis of how leads convert or the best channels for creating leads.
+* ***Reports*** – Available reports show conversion rates, the time required to convert a lead, and lead channels that are the best performers when it comes to bringing in deals.
+* ***Web-to-Lead*** – Getting leads from multiple channels is critical to any business. By using the Web-to-Lead functionality, you can easily create forms that capture leads from your website.
+
+To learn more about leads, take a look at our tip sheet within the Help & Training portal refer to our techical guide.
+
+### Capture Leads from Your Website
+
+If you have decided to use leads, it makes sense to also evaluate the Web-to-Lead functionality. You probably have a website that lets prospects contact you about your product or service.
+
+To make the most of your website:
+
+* Customize MaaxFrame to use Web-to-Lead functionality to capture leads when prospects fill in a form.
+* Bring that information right into MaaxFrame.
+
+Setting up this functionality is as simple as deciding which fields to include on the Web-to-Lead form, creating a URL as a landing page (such as a “thank you” page), and clicking a button to generate the HTML code. Your webmaster will jump for joy when you deliver HTML code that's ready to deploy immediately.
+
+## Add Users
+
+When MaaxFrame is set up the way you want it, you're ready to add users.
+
+Adding users is a fairly easy task. Earlier we covered profiles and setting up your organization's role hierarchy. When you add users, you associate actual users with those profiles within your role hierarchy, so users can log in and access the data that's appropriate for them.
+
+Adding users serves three important purposes:
+
+* Once you add users, you can import data and automatically associate that data with the correct users.
+* By associating roles and profiles with all users, you can determine how they see data, what they can do in the application, and how their data rolls up.
+* When you add a user, MaaxFrame uses that user's record to generate an invitation to log into the application.
+
+> Tip: If you want to notify users to reset password, be sure to “Reset New password” button when you go through the process of adding users. And then You can edit the user records and generate usernames and passwords whenever you're ready for users to actually log in.
+
+## Import Data
+
+The final task before you're ready to go live is to import your data into MaaxFrame. To help you, MaaxFrame has wizards to walk you through the process and provide some tips along the way. When the import is complete, you're can start to train your users and announce that MaaxFrame is ready for business.
+
+> Note: This import step is probably the most complex task in any MaaxFrame project.
+
+Most companies already have account and contact information stored somewhere—usually in Act!, Goldmine, or Microsoft Outlook, as well as in spreadsheets, on sticky notes, or in the heads of their sales reps. Getting that information out of Outlook and off the sticky notes and into your organization's knowledge base is one of the most important steps in the implementation process.
+
+Although you could collect all these resources and enter them one by one, it's obviously not efficient to enter hundreds or even thousands of records by hand. MaaxFrame provides a step-by-step data import wizard that walks you through the process of importing leads, accounts, and contacts.
+ 
+### Prepare to Import Your Data
+
+Best practices for importing your data include having a well thought-out plan, properly preparing the data, and doing a test run.
+Planning your data import includes the following steps:
+
+* Identifying your data sources data sources: Is your data in spreadsheets?
+* Listing fields in your current data records.
+* Mapping your current fields to the MaaxFrame fields.
+
+### Prepare Your Data
+
+We suggest you “scrub” your data before importing it into MaaxFrame because starting with clean data really pays off. Remember: “Garbage in, garbage out.”
+
+Here are some tips for preparing your data:
+
+* The MaaxFrame import wizard was designed to work with Microsoft Excel. If necessary, export your data from any other data sources to Excel first.
+* Now is a good time to standardize naming and clean up your data. For example, set standards for company names (such as International Business Machines instead of IBM) or the way countries are listed (USA instead of United States).
+* Take time to weed out “dirty” data and de-duplicate people who may be in the system multiple times.
+* Review your Excel file to see if you missed any critical data elements for which you haven't yet created custom fields. For example, if your sales reps are tracking the number of employees at each account, you'll need a field to store that information in MaaxFrame.
+* Map your data columns to the  MaaxFrame field names. For example, the Company field in Microsoft typically maps to the Account field in MaaxFrame. Consider renaming the column headers in your Excel file so they match the field names in MaaxFrame exactly. This step will simplify the mapping step in the wizard.
+* Wherever possible, assign the correct owners to records. If you don't have all the records assigned, the default owner is the administrator who performs the import.
+* Now start importing your data.
+
+Test the import: Test a small sample—approximately 5 to 10 records—before going ahead with the full import. When you analyze the results of your test, try this approach:
+
+* Build a custom report or custom view that lets you see at a glance whether the data is laid out correctly.
+* Open a record and compare it against the import file. Confirm that the record's fields show what you want them to show.
+* Validate the test results with selected stakeholders or power users.
+* Make changes to the import file or make changes to MaaxFrame based on the test results. For example, data could import incorrectly because it was mapped to the wrong field.
+* Delete the test records and test again after making your changes. Repeat this process until you're sure the data was imported accurately and that it is displayed correctly in the reports and views your users will see.
+
+### Import Your Final Data
+
+Once your test results meet your expectations, you're ready to import your file or files. Here are a few suggestions for importing data:
+* Consider importing data during non-working hours – If the system is live for some groups before others, this approach helps avoid confusion.
+* Give yourself some cushion for error – Don't try to import your data the day before sales training, for example.
+* Validate your data – Run key reports and display important screens to make sure all the data was imported into the fields where it belongs and in the format you want.
