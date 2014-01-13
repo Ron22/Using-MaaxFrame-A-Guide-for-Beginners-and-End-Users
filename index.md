@@ -1,7 +1,7 @@
 * [Welcome](chapters/00-Welcome.md)
 * [Introduction](chapters/01-Introduction.md)
 * [Setup MaaxFrame](chapters/02-Setup MaaxFrame.md)
-* [Home](chapters/03-Home.md))
+* [Home](chapters/03-Home.md)
 * [Email, My Events & Tasks](chapters/03.1-Email, My Events & Tasks.md)
 * [CRM](chapters/04-CRM.md)
 * [Leads & Opportunities](chapters/04.1-Leads & Opportunities.md)
