@@ -10,7 +10,7 @@ email if any are active.
 There are quick view on the screen to the dashboard, which is a standard view, pie chart view and
 tasks for the team members. Also, you may schedule events, create a task, or create a email.
 
-![Dashboard](https://github.com/Ron22/Using-MaaxFrame-A-Guide-for-Beginners-and-End-Users/blob/gh-pages/img/Dashboard.png)
+![Dashboard](/img/Dashboard.png)
 
 
 });
@@ -25,7 +25,7 @@ console.log('Completed: ' + myTodo.get('completed')); // Completed: false
 // Set map of attributes through Model.set():
 myTodo.set({
   title: "Both attributes set through Model.set().",
-  completed: true
+  completed: trues
 });
 console.log('Todo title: ' + myTodo.get('title')); // Todo title: Both attributes set through Model.set().
 console.log('Completed: ' + myTodo.get('completed')); // Completed: true
