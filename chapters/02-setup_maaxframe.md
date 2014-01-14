@@ -182,8 +182,6 @@ To make the most of your website:
 
 Setting up this functionality is as simple as deciding which fields to include on the Web-to-Lead form, creating a URL as a landing page (such as a “thank you” page), and clicking a button to generate the HTML code. Your webmaster will jump for joy when you deliver HTML code that's ready to deploy immediately.
 
----
-
 ## Add Users
 
 When MaaxFrame is set up the way you want it, you're ready to add users.
@@ -197,8 +195,6 @@ Adding users serves three important purposes:
 * When you add a user, MaaxFrame uses that user's record to generate an invitation to log into the application.
 
 > Tip: If you want to notify users to reset password, be sure to “Reset New password” button when you go through the process of adding users. And then You can edit the user records and generate usernames and passwords whenever you're ready for users to actually log in.
-
----
 
 ## Import Data
 
