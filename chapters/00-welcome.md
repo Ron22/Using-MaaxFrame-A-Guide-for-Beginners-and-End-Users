@@ -1,6 +1,6 @@
 ## Welcome
 
-![](img/logo.jpg)
+![MaaxFrame Logo](http://www.maaxframe.com/assets/img/Maax-logo-and-text-250x64.png)
 
 Thank you for using MaaxFrame, the world’s first advertisement driven and subscription based CRM service and
 software solutions provider. This is our User’s Manual, which will assist you in using the hosted version of our
