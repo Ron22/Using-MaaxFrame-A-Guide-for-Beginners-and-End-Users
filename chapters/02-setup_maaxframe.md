@@ -133,6 +133,8 @@ You can customize many different MaaxFrame components; however, most customers c
 
 Because fields hold the data you want to capture and report on, it’s important to make sure you have fields for important data elements and that those fields have names that make sense to your users. Here are common approaches to customizing fields:
 
+![fields](/img/fields.PNG)
+
 * Modify the standard MaaxFrame fields – MaaxFrame provides commonly used fields for standard records such as accounts, contacts, opportunities, and leads.
   * For example, the Lead object has a standard field called “Lead Status,” which has existing values of “Attempted to Contact,” “Cold,” “Hot,” "Pre-Qualified," "Warm," and few more. You can easily add a new value called “Dukewarm.”
 * Create fields from scratch – If a standard MaaxFrame field that you need doesn’t already exist, you can easily create a custom field. For example, you can add a new picklist to capture “Lead Type” and track the main competitor in the sales cycle.
@@ -141,6 +143,8 @@ Because fields hold the data you want to capture and report on, it’s important
 #### Customize Page Layouts
 
 Page layouts define how fields—standard and custom—look to your users and which fields are required; that is, they can’t be saved unless the user enters a value. You’ll want to customize your layouts so that they’re attractive and easy to use. It may be tempting to create many required fields to force users to enter data; however, keep in mind that user satisfaction tends to suffer when there are too many required fields.
+
+![Layout](/img/layout.PNG)
 
 Here’s what you can do to customize page layouts:
 
@@ -157,6 +161,8 @@ Here’s what you can do to customize page layouts:
 
 * After you add the custom fields to MaaxFrame, it’s time to re-evaluate if you have all the information you need to pull the proper reports.
 
+![reports](/img/reports.PNG)
+
 Now you’re ready to start creating your reports. Here’s what you can do with reports:
 
 * Customize the standard reports to better fit your business needs.
@@ -166,6 +172,8 @@ Now you’re ready to start creating your reports. Here’s what you can do with
 ### To Lead or Not to Lead?
 
 An important step in setting up MaaxFrame is to decide whether or not to use lead functionality. Leads are a critical part of the sales cycle of most businesses, and MaaxFrame includes a lot of very useful lead functionality, such as analyzing how leads convert or finding your best channels. Some companies decide not to use lead functionality because it requires an additional step to turn a prospect into an opportunity. What's right for you depends on your business processes.
+
+![Leads](/img/leads.PNG)
 
 #### Take Advantage of Lead Functionality
 
@@ -179,7 +187,9 @@ To learn more about leads, take a look at our tip sheet within the Help & Traini
 
 ### Capture Leads from Your Website
 
-If you have decided to use leads, it makes sense to also evaluate the Web-to-Lead functionality. You probably have a website that lets prospects contact you about your product or service.
+If you have decided to use leads, it makes sense to also evaluate the Web-to-Lead functionality. You probably have a website that lets prospects contact you te your product or service.
+
+![Leads Website](/img/leads_website.PNG)
 
 To make the most of your website:
 
@@ -193,6 +203,8 @@ Setting up this functionality is as simple as deciding which fields to include o
 When MaaxFrame is set up the way you want it, you're ready to add users.
 
 Adding users is a fairly easy task. Earlier we covered profiles and setting up your organization's role hierarchy. When you add users, you associate actual users with those profiles within your role hierarchy, so users can log in and access the data that's appropriate for them.
+
+![Add Users](/img/add_users.PNG)
 
 Adding users serves three important purposes:
 
@@ -209,6 +221,8 @@ The final task before you're ready to go live is to import your data into MaaxFr
 > Note: This import step is probably the most complex task in any MaaxFrame project.
 
 Most companies already have account and contact information stored somewhere—usually in Act!, Goldmine, or Microsoft Outlook, as well as in spreadsheets, on sticky notes, or in the heads of their sales reps. Getting that information out of Outlook and off the sticky notes and into your organization's knowledge base is one of the most important steps in the implementation process.
+
+![Import](/img/import.PNG)
 
 Although you could collect all these resources and enter them one by one, it's obviously not efficient to enter hundreds or even thousands of records by hand. MaaxFrame provides a step-by-step data import wizard that walks you through the process of importing leads, accounts, and contacts.
  
@@ -234,6 +248,8 @@ Here are some tips for preparing your data:
 * Map your data columns to the  MaaxFrame field names. For example, the Company field in Microsoft typically maps to the Account field in MaaxFrame. Consider renaming the column headers in your Excel file so they match the field names in MaaxFrame exactly. This step will simplify the mapping step in the wizard.
 * Wherever possible, assign the correct owners to records. If you don't have all the records assigned, the default owner is the administrator who performs the import.
 * Now start importing your data.
+
+![Import 1](/img/import1.PNG)
 
 Test the import: Test a small sample—approximately 5 to 10 records—before going ahead with the full import. When you analyze the results of your test, try this approach:
 
