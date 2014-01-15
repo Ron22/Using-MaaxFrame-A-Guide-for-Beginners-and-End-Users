@@ -133,7 +133,7 @@ You can customize many different MaaxFrame components; however, most customers c
 
 Because fields hold the data you want to capture and report on, it’s important to make sure you have fields for important data elements and that those fields have names that make sense to your users. Here are common approaches to customizing fields:
 
-![fields](/img/fields.PNG)
+![fields](/img/field.PNG)
 
 * Modify the standard MaaxFrame fields – MaaxFrame provides commonly used fields for standard records such as accounts, contacts, opportunities, and leads.
   * For example, the Lead object has a standard field called “Lead Status,” which has existing values of “Attempted to Contact,” “Cold,” “Hot,” "Pre-Qualified," "Warm," and few more. You can easily add a new value called “Dukewarm.”
@@ -189,7 +189,7 @@ To learn more about leads, take a look at our tip sheet within the Help & Traini
 
 If you have decided to use leads, it makes sense to also evaluate the Web-to-Lead functionality. You probably have a website that lets prospects contact you te your product or service.
 
-![Leads Website](/img/leads_website.PNG)
+![Leads Website](/img/lead_website.PNG)
 
 To make the most of your website:
 
@@ -218,7 +218,7 @@ Adding users serves three important purposes:
 
 The final task before you're ready to go live is to import your data into MaaxFrame. To help you, MaaxFrame has wizards to walk you through the process and provide some tips along the way. When the import is complete, you're can start to train your users and announce that MaaxFrame is ready for business.
 
-> Note: This import step is probably the most complex task in any MaaxFrame project.
+> Note: This import step is probably the most complex task in any other platforms bur not in MaaxFrame , it's ease to use.
 
 Most companies already have account and contact information stored somewhere—usually in Act!, Goldmine, or Microsoft Outlook, as well as in spreadsheets, on sticky notes, or in the heads of their sales reps. Getting that information out of Outlook and off the sticky notes and into your organization's knowledge base is one of the most important steps in the implementation process.
 
