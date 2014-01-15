@@ -17,6 +17,8 @@ The company profile information determines basic settings related to time zones,
 * Company profile – These settings use your local time for setting the time zone, default language, and the default currency.
 * Fiscal years – The fiscal year definitions are used in reporting, opportunities, and forecasting. The default fiscal year setting is a 12-month calendar year, with the first day of the fiscal year starting on any first day of the month. However, you can choose custom fiscal year periods.
 
+![company](/img/company.PNG)
+
 ---
 
 
@@ -55,6 +57,8 @@ For an overview of user access and permissions, view our Techincal Guide : Setup
 
 The role hierarchy looks similar to an organization chart, but it has a different purpose. Because the role hierarchy is based on who needs to work with what data to do his or her job, role hierarchies usually have fewer layers and the people at the top are not necessarily those at the top of the org chart.
 
+![Access](/img/access.PNG)
+
 The person in the top role (i.e Admin) has full access (view ,edit and delete ) to his or her data as well as the data of anyone lower in the hierarchy. Two common ways to set up role hierarchy are by region or by product.
 
 There are three basic steps to setting up a successful role hierarchy:
@@ -66,6 +70,8 @@ There are three basic steps to setting up a successful role hierarchy:
 ### Sharing Rules
 
 Sharing rules let you make automated exceptions to your organization-wide defaults for particular sets of users, so you can give them access to records they don’t own or can’t normally see. Sharing rules, like role hierarchies, are only used to give additional users access to records—they cannot be stricter than your organization-wide default settings.
+
+![Sharing Rules](/img/sharing_rules.PNG)
 
 ### Manual Sharing
 
