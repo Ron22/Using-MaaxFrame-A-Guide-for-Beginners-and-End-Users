@@ -1,5 +1,7 @@
 # Home
 
+MaaxFrame Home page houses the dashboard and activity stream which allows users to view pertinent record information via various dashlets and activity stream posts. Every user in MaaxFrame can configure their dashlets based on the display options and filters available from their dashboard. User's can also personalize their activity stream to only view posts specific to records that are important to them. This documentation will go over the basics of the Home page as well as the various options available to customize the Home page to best fit your individual needs.
+
 This is your new sales automation home page, where you can manage your customer relationships and interact with
 your MaaxFrame.You will see your Dashboard and a quick list of upcoming events for the week. You can also see your task list and any email if any are active.
 
