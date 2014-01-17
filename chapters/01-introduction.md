@@ -153,7 +153,7 @@ For most businesses, outlining their basic sales process includes gathering the 
 The goal of this step is to come up with a visual overview of your processes. Here’s an example of a sales process:
 
 
-[! Sales Process](/img/sales_process.jpg)
+[! Sales Process]img/sales_process.jpg)
 
 Discuss the sample process with your project team and modify it to fit your organization. If you don’t have a defined sales process, a CRM implementation is a good time to set one up.
 

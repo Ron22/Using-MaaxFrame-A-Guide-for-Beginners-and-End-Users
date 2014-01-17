@@ -1,2 +1,2 @@
-% Developing Backbone.js Applications
-% Addy Osmani
+% Using Maaxframe, A Guide for Beginners and End-users
+% Ron Thapiyal

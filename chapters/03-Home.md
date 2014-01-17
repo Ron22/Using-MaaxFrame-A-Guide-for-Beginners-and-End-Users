@@ -22,7 +22,7 @@ Top Menu Home Involves:
 
 It will be the default view which will be shown to the user as logged in, this will show the widgets such as Lead by source, Lead by industry, Opportunities pipeline, Leads Distribution and many more.
 
-![Dashboard](/img/Dashboard.png)
+![Dashboard]img/Dashboard.png)
 <center> Fig. ***3.01 Home -> Dashboard*** </center>
 <br>
 

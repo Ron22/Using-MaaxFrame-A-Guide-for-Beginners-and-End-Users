@@ -1,7 +1,7 @@
 include_dir=build
 source=chapters/*.md
-title='Developing Backbone.js Applications'
-filename='backbone-fundamentals'
+title='Using Maaxframe, A Guide for Beginners and End-users'
+filename='maaxframe-end-user-guide'
 
 
 all: html epub rtf pdf mobi

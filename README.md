@@ -32,6 +32,20 @@ Note: At this time, generating all of the above formats should be straight-forwa
 * [Pandoc](https://github.com/jgm/pandoc)
 * pdflatex (and recommended latex fonts)
 
+#### Apple MAC instructions
+
+* Install MacTex: http://mirror.ctan.org/systems/mac/mactex/mactex-basic.pkg
+$ sudo chown -R `whoami` /usr/local/texlive
+$ tlmgr update --self
+$ tlmgr install ucs
+$ tlmgr install etoolbox
+ 
+* Install pandoc view homebrew
+$ brew install haskell-platform
+$ cabal install pandoc
+ 
+* add to your path "~/.cabal/bin"
+
 #### Linux Debian based distros:
 
 * <code>apt-get install pandoc</code>
