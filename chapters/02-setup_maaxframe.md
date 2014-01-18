@@ -17,7 +17,7 @@ The company profile information determines basic settings related to time zones,
 * Company profile – These settings use your local time for setting the time zone, default language, and the default currency.
 * Fiscal years – The fiscal year definitions are used in reporting, opportunities, and forecasting. The default fiscal year setting is a 12-month calendar year, with the first day of the fiscal year starting on any first day of the month. However, you can choose custom fiscal year periods.
 
-![company]img/company.PNG)
+![](img/company.PNG)
 
 ---
 
@@ -57,7 +57,7 @@ For an overview of user access and permissions, view our Techincal Guide : Setup
 
 The role hierarchy looks similar to an organization chart, but it has a different purpose. Because the role hierarchy is based on who needs to work with what data to do his or her job, role hierarchies usually have fewer layers and the people at the top are not necessarily those at the top of the org chart.
 
-![Access]img/access.PNG)
+![](img/access.PNG)
 
 The person in the top role (i.e Admin) has full access (view ,edit and delete ) to his or her data as well as the data of anyone lower in the hierarchy. Two common ways to set up role hierarchy are by region or by product.
 
@@ -71,7 +71,7 @@ There are three basic steps to setting up a successful role hierarchy:
 
 Sharing rules let you make automated exceptions to your organization-wide defaults for particular sets of users, so you can give them access to records they don’t own or can’t normally see. Sharing rules, like role hierarchies, are only used to give additional users access to records—they cannot be stricter than your organization-wide default settings.
 
-![Sharing Rules]img/sharing_rules.PNG)
+![](img/sharing_rules.PNG)
 
 ### Manual Sharing
 
@@ -133,7 +133,7 @@ You can customize many different MaaxFrame components; however, most customers c
 
 Because fields hold the data you want to capture and report on, it’s important to make sure you have fields for important data elements and that those fields have names that make sense to your users. Here are common approaches to customizing fields:
 
-![fields]img/field.PNG)
+![](img/field.PNG)
 
 * Modify the standard MaaxFrame fields – MaaxFrame provides commonly used fields for standard records such as accounts, contacts, opportunities, and leads.
   * For example, the Lead object has a standard field called “Lead Status,” which has existing values of “Attempted to Contact,” “Cold,” “Hot,” "Pre-Qualified," "Warm," and few more. You can easily add a new value called “Dukewarm.”
@@ -144,7 +144,7 @@ Because fields hold the data you want to capture and report on, it’s important
 
 Page layouts define how fields—standard and custom—look to your users and which fields are required; that is, they can’t be saved unless the user enters a value. You’ll want to customize your layouts so that they’re attractive and easy to use. It may be tempting to create many required fields to force users to enter data; however, keep in mind that user satisfaction tends to suffer when there are too many required fields.
 
-![Layout]img/layout.PNG)
+![](img/layout.PNG)
 
 Here’s what you can do to customize page layouts:
 
@@ -161,7 +161,7 @@ Here’s what you can do to customize page layouts:
 
 * After you add the custom fields to MaaxFrame, it’s time to re-evaluate if you have all the information you need to pull the proper reports.
 
-![reports]img/reports.PNG)
+![](img/reports.PNG)
 
 Now you’re ready to start creating your reports. Here’s what you can do with reports:
 
@@ -173,7 +173,7 @@ Now you’re ready to start creating your reports. Here’s what you can do with
 
 An important step in setting up MaaxFrame is to decide whether or not to use lead functionality. Leads are a critical part of the sales cycle of most businesses, and MaaxFrame includes a lot of very useful lead functionality, such as analyzing how leads convert or finding your best channels. Some companies decide not to use lead functionality because it requires an additional step to turn a prospect into an opportunity. What's right for you depends on your business processes.
 
-![Leads]img/leads.PNG)
+![](img/leads.PNG)
 
 #### Take Advantage of Lead Functionality
 
@@ -189,7 +189,7 @@ To learn more about leads, take a look at our tip sheet within the Help & Traini
 
 If you have decided to use leads, it makes sense to also evaluate the Web-to-Lead functionality. You probably have a website that lets prospects contact you te your product or service.
 
-![Leads Website]img/lead_website.PNG)
+![](img/lead_website.PNG)
 
 To make the most of your website:
 
@@ -204,7 +204,7 @@ When MaaxFrame is set up the way you want it, you're ready to add users.
 
 Adding users is a fairly easy task. Earlier we covered profiles and setting up your organization's role hierarchy. When you add users, you associate actual users with those profiles within your role hierarchy, so users can log in and access the data that's appropriate for them.
 
-![Add Users]img/add_users.PNG)
+![](img/add_users.PNG)
 
 Adding users serves three important purposes:
 
@@ -222,7 +222,7 @@ The final task before you're ready to go live is to import your data into MaaxFr
 
 Most companies already have account and contact information stored somewhere—usually in Act!, Goldmine, or Microsoft Outlook, as well as in spreadsheets, on sticky notes, or in the heads of their sales reps. Getting that information out of Outlook and off the sticky notes and into your organization's knowledge base is one of the most important steps in the implementation process.
 
-![Import]img/import.PNG)
+![](img/import.PNG)
 
 Although you could collect all these resources and enter them one by one, it's obviously not efficient to enter hundreds or even thousands of records by hand. MaaxFrame provides a step-by-step data import wizard that walks you through the process of importing leads, accounts, and contacts.
  
@@ -249,7 +249,7 @@ Here are some tips for preparing your data:
 * Wherever possible, assign the correct owners to records. If you don't have all the records assigned, the default owner is the administrator who performs the import.
 * Now start importing your data.
 
-![Import 1]img/import1.PNG)
+![](img/import1.PNG)
 
 Test the import: Test a small sample—approximately 5 to 10 records—before going ahead with the full import. When you analyze the results of your test, try this approach:
 

@@ -6,12 +6,12 @@
 
 MaaxFrame CRM Home page houses the dashboard and activity stream which allows users to view pertinent record information via various dashlets and activity stream posts. Every user in MaaxFrame can configure their dashlets based on the display options and filters available from their dashboard. User's can also personalize their activity stream to only view posts specific to records that are important to them. This documentation will go over the basics of the Home page as well as the various options available to customize the Home page to best fit your individual needs.
 
-![CRM Dashboard]img/crm1.png)
+![](img/crm1.png)
 
 MaaxFrame's Home page dashboard is where certain dashlets are grouped together based on the information that users would like to view. The "My Dashboard" comes out-of-the-box with MaaxFrame and will display when users initially access their CRM Home page. Users have the option to modify the dashboard layout, rename dashboards, delete dashboards, as well as create new dashboards if they wish. 
 There are different dashlets which can be seen under CRM such as Leads, Opportunities, Accounts, etc.
 
-![CRM Dashboard]img/crm2.png)
+![](img/crm2.png)
 
 Please note that administrators can restrict users from modifying their Home page layouts. For more information on how administrators can prevent Home page customizations, please refer to the Admin-Set Limitations section of this documentation.
 
